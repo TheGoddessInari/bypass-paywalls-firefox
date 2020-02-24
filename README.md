@@ -127,8 +127,15 @@ Usually premium articles cannot be bypassed as they are behind a hard paywall.
 ### Pull Requests
 * PRs are welcome.
 
-### Show your support
-* I am not asking for donations or anything like that, all I ask is that you star this repo.
+## Donations
+
+Keep in mind, I'm not pushing this. I'll do my best regardless.
+
+| Type         |                    URL/Wallet                    |
+| ------------ | :----------------------------------------------: |
+| Sponsorship  | <https://github.com/sponsors/TheGoddessInari>    |
+
+----------
 
 ### License
 Unlazy Paywall Avoidance is [MIT-licensed](https://github.com/TheGoddessInari/unlazy-paywall-avoidance/blob/master/LICENSE).
