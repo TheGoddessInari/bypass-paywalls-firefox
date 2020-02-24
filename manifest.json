@@ -161,7 +161,7 @@
     "*://*.techinasia.com/*",
     "*://*.bloombergquint.com/*",
     "*://*.statista.com/*",
-    "*://*.dailytelegraph.com.au/*",
+    "*://*.dailytelegraph.com.au/*"
   ],
   "version": "1.6.5"
 }
