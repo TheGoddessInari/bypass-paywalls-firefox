@@ -1,6 +1,6 @@
-# Bypass Paywalls for Firefox
+# Unlazy Paywall Avoidance
 
-## [Download and install the latest version](https://github.com/iamadamdev/bypass-paywalls-firefox/releases/download/v1.6.5/bypass_paywalls-1.6.5-an+fx.xpi)
+## [Download and install the latest version here.](https://github.com/TheGoddessInari/unlazy-paywall-avoidance/releases/)
 
 ### Bypass the following sites' paywalls with this extension
 
@@ -103,8 +103,6 @@
 [Vrij Nederland](https://www.vn.nl)\
 [Wired](https://www.wired.com)
 
-### [Chrome version here](https://github.com/iamadamdev/bypass-paywalls-chrome)
-
 ### Sites with limited number of free articles
 The free article limit can normally be bypassed by removing cookies for the site.*
 
@@ -118,7 +116,7 @@ _*May not always succeed_
 Only large or major sites will be considered. No small sites or local newspapers.
 1. Visit an article on the site you want to bypass the paywall for and copy the article title.
 2. Open up a new Private window (Ctrl+Shift+P) and paste the article title into Google.
-3. Click on the same article from the Google search results page. If it loads without a paywall you can [submit a request](https://github.com/iamadamdev/bypass-paywalls-firefox/issues/new) to add the site, otherwise my extension cannot bypass it either.
+3. Click on the same article from the Google search results page. If it loads without a paywall you can [submit a request](https://github.com/TheGoddessInari/unlazy-paywall-avoidance/issues/new) to add the site, otherwise my extension cannot bypass it either.
 
 Usually premium articles cannot be bypassed as they are behind a hard paywall.
 
@@ -133,4 +131,4 @@ Usually premium articles cannot be bypassed as they are behind a hard paywall.
 * I am not asking for donations or anything like that, all I ask is that you star this repo.
 
 ### License
-Bypass Paywalls is [MIT-licensed](https://github.com/iamadamdev/bypass-paywalls-firefox/blob/master/LICENSE).
+Unlazy Paywall Avoidance is [MIT-licensed](https://github.com/TheGoddessInari/unlazy-paywall-avoidance/blob/master/LICENSE).
