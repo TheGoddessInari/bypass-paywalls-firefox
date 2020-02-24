@@ -2,6 +2,8 @@
 
 ## [Download and install the latest version here.](https://github.com/TheGoddessInari/unlazy-paywall-avoidance/releases/)
 
+### Forked with :| from <https://github.com/iamadamdev/bypass-paywalls-firefox>
+
 ### Bypass the following sites' paywalls with this extension
 
 [Algemeen Dagblad](https://www.ad.nl)\
